@@ -1,6 +1,6 @@
 # discord-twitter-x-link-bot
 
-`docker run -e TOKEN='' -e PREFIX='' ghcr.io/owine/discord-twitter-x-link-bot:main`
+`docker run -e TOKEN='' -e PREFIX='' ghcr.io/owine/discord-twitter-x-link-bot:latest`
 
 `TOKEN` (required) your Discord bot token (from developer center)
 `PREFIX` (option, default `!`) a bot trigger prefix (currently nonfunctional)
